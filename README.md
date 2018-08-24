@@ -1,4 +1,4 @@
-# ejercicios de User Flow y Flow Chart
+# Ejercicios de User Flow y Flow Chart
 
 Para este ejercicio decidí mapear el flow de mi red favorita del mundo: Tumblr.
 Este ejercicio fue interesante pues el analizar paso por paso en algo a lo que en el pasado nunca le había prestado atención fue bastante iluminador con respecto a las decisiones que nosotras como futuras Ux tendremos que realizar para que los futuros usuarios hagan sus interacciones de una manera fácil y sin tener que pensarlas demasiado.
